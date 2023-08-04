@@ -1,6 +1,6 @@
 # Jogo-Ludo
 
- Este programa que simula o jogo Ludo foi desenvolvido como trabalho final da matéria de Aeds 1
+ Este programa que simula o jogo Ludo foi desenvolvido como trabalho final da matéria de Algoritmos e Estrutura de Dados 1
 
   ##### LINGUAGEM UTILIZADA
  <div style="display: inline_block"><br/>
