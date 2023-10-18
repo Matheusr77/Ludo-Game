@@ -18,12 +18,11 @@ Este projeto é um jogo de Ludo feito com a linguagem C, ele foi desenvolvido co
 1. Clone este repositório em sua máquina local.
 2. Compile o programa usando um compilador C.
 3. Execute o programa e siga as instruções para definir o número de jogadores, nomes e cores.
-4. Desfrute de uma partida emocionante do Ludo com seus amigos!
 
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo ['LICENSE'](LICENSE) para obter mais detalhes.
 
-##Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver ideias para melhorias, sinta-se à vontade para abrir um problema ou enviar um pull request.
