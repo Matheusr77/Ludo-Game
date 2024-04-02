@@ -1,6 +1,6 @@
 # Jogo de Ludo em C
 
-Este projeto é um jogo de Ludo feito com a linguagem C, ele foi desenvolvido como parte do trabalho final do curso de Algoritmos e Estrutura de Dados 1 no curso de Engenharia da Computação na Universidade do Estado de Minas Gerais - UEMG. O jogo segue basicamente as regras clássicas do Ludo, oferecendo uma experiência autêntica aos jogadores.
+Este projeto é um jogo de Ludo feito com a linguagem C, ele foi desenvolvido como parte do trabalho final da matéria de Algoritmos e Estrutura de Dados 1 no curso de Engenharia da Computação na Universidade do Estado de Minas Gerais - UEMG. O jogo segue basicamente as regras clássicas do Ludo, oferecendo uma experiência autêntica aos jogadores.
 
 ## Funcionalidades
 
