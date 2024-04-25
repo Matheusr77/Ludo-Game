@@ -1,28 +1,28 @@
-# Jogo de Ludo em C
+# Ludo Game in C
 
-Este projeto é um jogo de Ludo feito com a linguagem C, ele foi desenvolvido como parte do trabalho final da matéria de Algoritmos e Estrutura de Dados 1 no curso de Engenharia da Computação na Universidade do Estado de Minas Gerais - UEMG. O jogo segue basicamente as regras clássicas do Ludo, oferecendo uma experiência autêntica aos jogadores.
+This project is a Ludo game made with the C language, it was developed as part of the final work of the Algorithms and Data Structure 1 subject in the Computer Engineering course at the State University of Minas Gerais - UEMG. The game basically follows the classic Ludo rules, offering an authentic experience to players.
 
-## Funcionalidades
+## Functionalities
 
-- **Jogo de Ludo Clássico**: Implementa o tradicional jogo de tabuleiro Ludo, com suporte para 2 a 4 jogadores, onde cada jogador controla 4 peões.
-- **Início e Movimento**: Os jogadores só podem mover um peão para o início da corrida, na casa de sua respectiva cor, ao lançar um 6 no dado. Após a colocação do peão no início, o jogador tem direito a um novo lançamento do dado.
-- **Três Seis em Sequência**: Se um jogador tirar três vezes seguidas o valor 6 no dado, ele deve passar a vez, promovendo um jogo justo e dinâmico.
-- **Finalização do Jogo**: O jogador deve levar os 4 peões até a casa final para vencer o jogo. Para fazer isso, ele deve tirar o valor exato restante no dado e, se bem-sucedido, terá direito a outra rodada no dado.
-- **Captura de Peças**: É possível capturar o peão de outro jogador ao cair em uma casa já ocupada por um peão adversário. A captura força o peão adversário a retornar à posição inicial fora da trilha, proporcionando um elemento estratégico ao jogo. Além disso, após uma captura bem-sucedida, o jogador pode lançar o dado mais uma vez.
-- **Pontos Seguros**: O tabuleiro possui casas seguras, que são consideradas pontos seguros onde os peões não podem ser capturados.
-- **Movimentação Estratégica**: Os peões devem se mover e viajar contornando o tabuleiro até chegar à última casa. A cada rodada do dado, o jogador deve mover um peão, e não é permitido abdicar do movimento.
-- **Escolha de Peão para Mover**: O programa permite que o jogador escolha qual dos peões (quando possível) ele deseja mover, oferecendo controle estratégico sobre suas peças.
+- **Classic Ludo Game**: It implements the traditional Ludo board game, with support for 2 to 4 players, where each player controls 4 pawns.
+- **Start and Movement**: Players can only move a pawn to the start of the race, on the square of their respective color, by rolling a 6 on the die. Once the pawn has been placed at the start, the player is entitled to a new throw of the dice.
+- **Three Sixes in a Row**: If a player rolls a 6 three times in a row, they must pass the turn, promoting a fair and dynamic game.
+- **End of the Game**: The player must get all 4 pawns to the final square to win the game. To do this, they must roll the exact value remaining on the dice and, if successful, they will be entitled to another round on the dice.
+- **Parts capture**: It is possible to capture another player's pawn when it lands on a square already occupied by an opponent's pawn. The capture forces the opposing pawn to return to its starting position off the track, providing a strategic element to the game. In addition, after a successful capture, the player can roll the dice once more.
+- **Safe Points**: The board has safe squares, which are considered safe points where pawns cannot be captured.
+- **Strategic Move**: The pawns must move and travel around the board until they reach the last square. With each roll of the dice, the player must move a pawn, and is not allowed to give up the move.
+- **Choice of Pawn to Move**: The program allows the player to choose which of the pawns (where possible) he wants to move, offering strategic control over his pieces.
 
-## Como Jogar
+## How to Play
 
-1. Clone este repositório em sua máquina local.
-2. Compile o programa usando um compilador C.
-3. Execute o programa e siga as instruções para definir o número de jogadores, nomes e cores.
+1. Clone this repository on your local machine.
+2. Compile the program using a C compiler.
+3. Run the program and follow the instructions to set the number of players, names and colors.
 
-## Licença
+## License
 
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo ['LICENSE'](LICENSE) para obter mais detalhes.
+This project is licensed under the MIT License - see the ['LICENSE'](LICENSE) file for more details.
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Se você encontrar problemas ou tiver ideias para melhorias, sinta-se à vontade para abrir um problema ou enviar um pull request.
+Contributions are welcome! If you encounter problems or have ideas for improvements, feel free to open an issue or send a pull request.
